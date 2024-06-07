@@ -43,6 +43,7 @@ nav li {
     list-style: none;
     margin: 0;
     padding: 0;
+
 }
 nav ul {
     display: flex;
@@ -56,7 +57,7 @@ nav a {
     margin-top: 0px;
     text-decoration: none;
     text-transform: uppercase;
-    color: #727272;
+    color: #777;
     font-family: Arial;
 }
 
@@ -68,7 +69,7 @@ nav a:hover {
 #banner {
     display: flex;
     justify-content: center;
-    background-image: url('../images/main_background1.jpg');
+    background-image: url('../images/main_background.png');
     background-position: center;
     background-size: cover;
     height: 670px;
@@ -86,6 +87,6 @@ nav a:hover {
 .banner_headline h1 {
     color: white;
     font-size: 50px;
-    text-shadow: 0 2px 5px black;
+    text-shadow: 0 1px 0 black;
 }
 
