@@ -27,8 +27,8 @@ header {
     align-items: center;
 }
 .logo img {
-    width: 210px;
-    height: 110px;
+    width: 200px;
+    height: 105px;
 }
 .menu {
     display: flex;
